@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/henrylai/AndroidStudioProjects/DisplayingBitmaps/Application/build/intermediates/res/merged/debug/layout/image_grid_fragment.xml",
+        "source": "/Users/henrylai/AndroidStudioProjects/DisplayingBitmaps/Application/src/main/res/layout/image_grid_fragment.xml"
+    },
+    {
+        "merged": "/Users/henrylai/AndroidStudioProjects/DisplayingBitmaps/Application/build/intermediates/res/merged/debug/layout/image_detail_pager.xml",
+        "source": "/Users/henrylai/AndroidStudioProjects/DisplayingBitmaps/Application/src/main/res/layout/image_detail_pager.xml"
+    },
+    {
+        "merged": "/Users/henrylai/AndroidStudioProjects/DisplayingBitmaps/Application/build/intermediates/res/merged/debug/layout/image_detail_fragment.xml",
+        "source": "/Users/henrylai/AndroidStudioProjects/DisplayingBitmaps/Application/src/main/res/layout/image_detail_fragment.xml"
+    }
+]
